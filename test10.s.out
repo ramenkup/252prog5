@@ -1,0 +1,40 @@
+main: The numbers are:
+27
+389
+42
+16381
+32000
+4638
+287
+
+skip: There are 7 numbers in the array.
+
+printArray: Starting with the first integer:
+27
+32000
+
+skip: There are 7 numbers in the array.
+
+printArray: Starting with the second integer:
+389
+4638
+
+skip: There are 7 numbers in the array.
+
+printArray: Starting with the third integer:
+42
+287
+
+skip: There are 7 numbers in the array.
+
+printArray: Starting with the fourth integer:
+16381
+
+main: The numbers are:
+27
+389
+42
+16381
+32000
+4638
+287

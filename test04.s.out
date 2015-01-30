@@ -1,0 +1,40 @@
+main: The numbers are:
+27
+389
+42
+-42
+142
+242
+342
+-442
+542
+742
+-842
+16381
+32000
+4638
+-32768
+
+skip: There are 15 numbers in the array.
+
+printArray: Starting with the fourth integer:
+-42
+-442
+16381
+
+main: The numbers are:
+27
+389
+42
+-42
+142
+242
+342
+-442
+542
+742
+-842
+16381
+32000
+4638
+-32768
